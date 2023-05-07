@@ -8,12 +8,12 @@ Ce projet est un site web pour un restaurant nommé "Les Délices Africain". Le 
 
 Voici les étapes à suivre pour installer le site web :
 
-- Cloner le dépôt Git : `git clone https://github.com/username/les-delices-africains.git`
+- Cloner le dépôt Git : `git clone https://github.com/Ashjoyce/les_delices_africain_Back.git
 - Installer les dépendances : `npm install`
 
-Démarrer le serveur : `npm start`
+Démarrer le serveur : `npm run start`
 
 ## Utilisation
 
-Une fois que le serveur est démarré, vous pouvez accéder au site web en ouvrant votre navigateur et en entrant l'URL suivante : `http://localhost:3000/`. Vous pourrez y découvrir les différents plats proposés par le restaurant, ainsi que des informations sur le restaurant.
+Une fois que le serveur est démarré, vous pouvez accéder au site web en ouvrant votre navigateur et en entrant l'URL suivante : `http://localhost:3000/`. Vous pourrez y découvrir les différents plats proposés par le restaurant,etc.
 
