@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet est un site web pour un restaurant nommé "Les Délices Africain". Le site web a été créé en utilisant la technologie NestJS, qui est un framework de développement web basé sur Node.js. Le site web a été conçu pour mettre en avant la cuisine africaine et pour aider les clients à découvrir les différents plats proposés par le restaurant.
+Ce projet est un site web pour un restaurant nommé "Les Délices Africain". Le site web a été créé en utilisant la technologie NestJS, qui est un framework de développement web basé sur Node.js. Le site web a été conçu pour mettre en avant la cuisine africaine et pour aider les clients à découvrir les différents plats proposés par le restaurant. Le site web utilise un Postman pour récupérer des informations sur le restaurant et les afficher les menus.
 
 ## Installation 
 
